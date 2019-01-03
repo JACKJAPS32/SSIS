@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "FAKTOS_ACADEMY_SSIS", "FAKTOS_ACADEMY_SSIS\FAKTOS_ACADEMY_SSIS.dtproj", "{BCB0F854-DEAD-4250-A55F-803DA4BBDB58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB0F854-DEAD-4250-A55F-803DA4BBDB58}.Development|Default.ActiveCfg = Development
+		{BCB0F854-DEAD-4250-A55F-803DA4BBDB58}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1B0DC2-935C-4B31-A1ED-45FCDECBAB40}
+	EndGlobalSection
+EndGlobal

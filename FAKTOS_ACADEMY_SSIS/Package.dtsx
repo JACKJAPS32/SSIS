@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/19/2018 1:51:33 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="FAKTOS-PC"
+  DTS:CreatorName="Faktos-PC\Faktos"
+  DTS:DTSID="{0742306D-3592-488F-A930-4ED4A2D7E8A6}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LocaleID="2058"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{1212BB29-78AE-4AB3-800A-05994197F4EE}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
